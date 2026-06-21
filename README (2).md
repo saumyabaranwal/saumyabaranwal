@@ -1,26 +1,29 @@
+ 
 <div align="center">
+<table border ="0" align="center">
+<tr>
+<td border = "0">
 
-```
-> whoami
-saumya_baranwal.exe
+### heya, this is saumya 
 
-> status
-B.Tech CSE @ JIIT Noida | Building things that work (and look good doing it)
-```
+</td>
+<td border = "0">
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHV0N2lyYmswNDAxdnFuaHF6c2JkcW0xZm4wODNmM3JscDFud2YyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dDnsqZQDEOSlHWAgfO/giphy.gif" width="90"/>
+
+</td>
+</tr>
+</table>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=cd+%2Fhome%2Fsaumya;npm+install+curiosity;git+commit+-m+%22building+clean+UI%22;Error:+contest+notifications)](https://git.io/typing-svg)
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,50:8B00FF,100:00F0FF&height=180&section=header&text=Hey,%20I'm%20Saumya&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20%7C%20MERN%20Dev%20%7C%20DSA%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320"/>
+**Build &nbsp;|&nbsp; Dev &nbsp;|&nbsp; DSA**
 
 </div>
-
----
-
-### `$ cat about.md`
 
 ```yaml
 name: Saumya Baranwal
@@ -31,10 +34,7 @@ status: "console.log('always learning')"
 ```
 
 ---
-
-### `$ ls tech_stack/`
-
-<div align="center">
+<div>
 
 **Languages**
 
@@ -63,9 +63,6 @@ status: "console.log('always learning')"
 </div>
 
 ---
-
-### `$ cat connect.txt`
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=FF00C8)](mailto:saumya11jiit@gmail.com)
@@ -83,7 +80,5 @@ thanks for stopping by ✨
 
 > exit
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8B00FF,100:FF00C8&height=100&section=footer" width="100%"/>
 
 </div>
