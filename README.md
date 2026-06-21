@@ -4,7 +4,7 @@
 <tr>
 <td border = "0">
 
-### heya, this is saumya 
+### heya, this is saumya!
 
 </td>
 <td border = "0">
@@ -24,6 +24,7 @@
 **Build &nbsp;|&nbsp; Dev &nbsp;|&nbsp; DSA**
 
 </div>
+
 
 ```yaml
 name: Saumya Baranwal
