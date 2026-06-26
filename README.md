@@ -73,13 +73,3 @@ status: "console.log('always learning')"
 
 ---
 
-<div align="center">
-
-```
-> echo "thanks for stopping by"
-thanks for stopping by ✨
-
-> exit
-```
-
-</div>
